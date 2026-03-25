@@ -126,12 +126,7 @@ Contribuição
 
 Contribuições são bem-vindas. Para contribuir:
 
-Faça um fork do projeto
-Crie uma branch:
-git checkout -b feature/sua-feature
-Faça commit das suas alterações
-Envie para o seu repositório
-Abra um Pull Request
+
 Licença
 
 Este projeto está sob a licença ISC.

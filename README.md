@@ -122,10 +122,6 @@ O projeto utiliza Jest e Supertest para testes de integração.
 Execute com:
 
 npm test
-Contribuição
-
-Contribuições são bem-vindas. Para contribuir:
-
 
 Licença
 
